@@ -1,6 +1,6 @@
 # li-std-core
 
-Li package li-std-core
+*Core standard library for Li — provable primitives for HPC, scientific computing, and AI (lip).*
 
 ## Build
 
